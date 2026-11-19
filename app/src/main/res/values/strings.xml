@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Music Files</string>
+    <string name="no_permission">Permission to read audio files is required.</string>
+    <string name="no_songs">No music files found.</string>
+    <string name="unknown_artist">Unknown artist</string>
+
+    <string name="nav_home">Home</string>
+    <string name="nav_media">Media</string>
+    <string name="nav_playlists">Playlists</string>
+
+    <string name="dashboard">Dashboard</string>
+    <string name="audio_files_on_phone">Audio files on phone</string>
+    <string name="playlists_count_label">Playlists</string>
+    <string name="songs_in_playlists">Songs in playlists</string>
+    <string name="browse_media">Browse media</string>
+    <string name="view_playlists">View playlists</string>
+
+    <string name="new_playlist">New playlist</string>
+    <string name="playlist_name_hint">Playlist name</string>
+    <string name="playlist_name_invalid">Name is empty or already used</string>
+    <string name="no_playlists">No playlists yet. Tap + to create one.</string>
+    <string name="playlist_empty">No songs in this playlist.</string>
+    <string name="play_all">Play all</string>
+    <string name="add_songs">Add songs</string>
+    <string name="add_to_playlist">Add to playlist</string>
+    <string name="added_to_playlist">Added to playlist</string>
+    <string name="already_in_playlist">Already in that playlist</string>
+    <string name="all_songs_added">All songs are already in this playlist</string>
+    <string name="delete_playlist_title">Delete %1$s?</string>
+    <string name="delete_playlist_message">The songs stay on your phone.</string>
+
+    <string name="create">Create</string>
+    <string name="add">Add</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="song_action">Song action</string>
+    <string name="songs_count">%1$d songs</string>
+
+    <string name="now_playing_header">Now playing</string>
+    <string name="nothing_playing">Nothing playing</string>
+    <string name="now_playing_previous">Previous</string>
+    <string name="now_playing_play_pause">Play or pause</string>
+    <string name="now_playing_next">Next</string>
+    <string name="volume">Volume</string>
+</resources>

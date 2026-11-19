@@ -1,0 +1,12 @@
+# Build output
+build/
+app/build/
+.gradle/
+
+# Local machine settings (SDK path)
+local.properties
+
+# IDE
+.idea/
+*.iml
+.DS_Store
